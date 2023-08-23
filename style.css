@@ -1,0 +1,20 @@
+
+        #main {
+            box-sizing: border-box;
+            padding: 20px;
+            border: 3px solid salmon;
+            margin: 10px;
+            width: 100px;
+
+        }
+
+        #container{
+            display: inline-block;
+
+        }
+
+        #container > aside {
+            display: inline-block;
+
+        }
+    
